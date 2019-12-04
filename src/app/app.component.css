@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.title-app {
+  font-weight: bold;
+}
+
+.description {
+  color: rgba(111, 111, 111, 0.39);
+}
